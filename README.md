@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calisamiyorum
-- 👀 I’m interested in cryptocurrency and object oriented programming.
+- 👀 I’m interested in agentic orchestration and object oriented programming.
 - 🌱 I’m currently learning solidty.
 - 💞️ 💔
 - 📫 How to reach me- african8m@gmail.com
